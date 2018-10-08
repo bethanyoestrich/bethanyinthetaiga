@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beginning Gingko Afghan"
-date:   2018-09-21 14:13:46 -0400
+date:   2018-10-04 14:13:46 -0400
 categories: crochet, ohmyblanket, afghan, christmasgifts
 ---
 
