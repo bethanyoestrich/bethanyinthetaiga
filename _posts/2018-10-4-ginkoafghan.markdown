@@ -2,7 +2,7 @@
 layout: post
 title:  "Beginning Gingko Afghan"
 date:   2018-10-04 14:13:46 -0400
-categories: crochet, ohmyblanket, afghan, christmasgifts
+categories: crochet ohmyblanket afghan christmasgifts
 ---
 
 My mother loves arts and crafts style and I've always found the gingko motifs commonly found in the style to be exceptionally beautiful. While working on a "Oh My Blanket" for my own home, I noticed the similarities between the shell pattern and gingko patterns present in wallpaper and other textiles and decided to utilize a shell pattern for my mother's Christmas afghan. Originally I attempted to try to create my own pattern to add stems to the leaves, but that did not work well and I stuck with the original Oh My Blanket pattern located here -- https://www.mooglyblog.com/oh-my-blanket/ .

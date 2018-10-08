@@ -2,7 +2,7 @@
 layout: post
 title:  "Completed Basketweave Afghan"
 date:   2018-09-25 14:13:46 -0400
-categories: crochet, basketweave, afghan, christmasgifts
+categories: crochet basketweave afghan christmasgifts
 ---
 
 I finished the first of my Christmas gift crochet projects last evening -- the Basketweave afghan for my
